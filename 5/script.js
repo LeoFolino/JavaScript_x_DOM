@@ -1,5 +1,7 @@
-function changeThisElement(element){
-    element.innerHTML= 'Hola mundo desde declarativeFunction'
+const mouseOver = element => {
+    element.innerHTML = 'Estas sobre el DIV'
 }
 
-const changeThisElement = element => element.innerHTML = 'Hola papi'
+const mouseOut = element => {
+    element.innerHTML = 'Saliste del DIV'
+}
