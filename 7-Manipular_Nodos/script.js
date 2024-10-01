@@ -7,4 +7,7 @@ paragraph.appendChild(node)
 // en la variable container tenemos el div
 const container = document.getElementById('div1')
 const p1 = document.getElementById('p1')
-container.appendChild(paragraph)
+container.insertBefore(paragraph, p1)
+
+const p2 = document.getElementById('p2')
+p2.remove()
