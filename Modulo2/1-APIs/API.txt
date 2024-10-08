@@ -1,0 +1,38 @@
+¿Qué es una API?
+
+Significa Interfaz de Programación de Aplicaciones (por sus siglas en inglés, Application Programming Interface). En términos simples, 
+una API es un conjunto de reglas y definiciones que permite que diferentes aplicaciones se comuniquen entre sí.
+
+Interactividad: Define cómo las aplicaciones deben interactuar entre sí.
+Comunicación: Establece reglas comunes para la transferencia de datos.
+Acceso: Actúa como intermediario, permitiendo acceder a funciones sin exponer detalles internos.
+Tipos: Web (HTTP) y Bibliotecas (funciones de programación).
+Simplificación: Facilita la integración y acelera el proceso de desarrollo de software.
+Interoperabilidad: Permite la colaboración eficiente entre diferentes aplicaciones y plataformas.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Qué es una Web API?
+
+Proporciona un conjunto de reglas y definiciones que permiten que aplicaciones y servicios web se comuniquen entre sí de manera estandarizada.
+
+Protocolo: Utiliza métodos HTTP (GET, POST, PUT, DELETE) para solicitar o enviar datos.
+Formatos: Suelen trabajar con formato JSON para el intercambio de información.
+Acceso Remoto: Permite a las aplicaciones acceder a funcionalidades o datos a través de la red, generalmente a través de URLs.
+Interoperabilidad: Facilita la interoperabilidad entre sistemas y plataformas heterogéneas.
+Autenticación y Autorización: Mecanismos de seguridad para el acceso a recursos.
+RESTful o GraphQL: Las Web APIs suelen seguir arquitecturas RESTful o GraphQL para organizar las operaciones y recursos de manera eficiente.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Qué es una Browser API?
+
+Se refiere a las interfaces de programación de aplicaciones (APIs) proporcionadas por los navegadores web. Estas APIs permiten que los desarrolladores web
+ accedan y utilicen funciones específicas del navegador para crear aplicaciones web interactivas y dinámicas.
+
+Geolocalización: Proporciona la ubicación del usuario a través del navegador.
+Cámara y Micrófono: Permite el acceso a dispositivos multimedia (grabación, filmación).
+LocalStorage y SessionStorage: Ofrece almacenamiento local en el navegador.
+Fetch: Facilita realizar solicitudes HTTP y gestionar respuestas.
+WebSockets: Permite la comunicación bidireccional en tiempo real entre el navegador y un servidor.
+Audio: Ofrece capacidades para procesar y manipular audio en aplicaciones web.
