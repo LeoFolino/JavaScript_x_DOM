@@ -1,0 +1,12 @@
+¿Qué es una API REST?
+
+Una API REST (Representational State Transfer) es un conjunto de reglas y convenciones para el diseño de servicios web que utilizan el protocolo HTTP. 
+Está basada en los principios de REST, una arquitectura que se centra en la representación de recursos y en las operaciones estándar sobre esos recursos.
+
+En una API REST, todo se considera un recurso, que puede ser un objeto, un servicio o incluso un concepto abstracto. Los recursos son identificados por URLs.
+
+Las operaciones sobre recursos se realizan mediante los verbos HTTP adecuados. Por ejemplo, GET para obtener información, POST para crear recursos, PUT o 
+PATCH para actualizarlos, y DELETE para eliminarlos.
+
+Sin Estado: La comunicación entre el cliente y el servidor no guarda información sobre el estado actual del cliente en el servidor entre solicitudes. 
+Cada solicitud del cliente al servidor contiene toda la información necesaria para entender y procesar la solicitud.

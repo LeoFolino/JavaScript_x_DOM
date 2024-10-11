@@ -1,0 +1,28 @@
+¿Qué es un JSON?
+
+JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos. Se utiliza comúnmente para transmitir datos entre 
+un servidor y una aplicación web. JSON es fácilmente legible por humanos y también fácilmente parseable por máquinas.
+
+Un documento JSON consiste en pares clave-valor, donde las claves son cadenas de texto y los valores pueden ser cadenas de texto, números, 
+booleanos, objetos, matrices, o nulos. Estos pares clave-valor se agrupan en objetos, y los objetos pueden anidarse para representar estructuras más complejas.
+
+{
+  "nombre": "Juan",
+  "edad": 30,
+  "ciudad": "Ejemploville",
+  "casado": false,
+  "hobbies": ["lectura", "ciclismo", "programación"]
+}
+---------------------------------------------
+
+¿Para qué sirve JSON?
+
+01- JSON es utilizado para transmitir información entre servidores y clientes en aplicaciones web y servicios API.
+
+02- Funciona como formato de almacenamiento ligero y comprensible, ya sea en sistemas de bases de datos NoSQL o archivos locales.
+
+03- En arquitecturas RESTful, JSON es común para enviar y recibir datos entre clientes y servidores.
+
+04- Facilita la comunicación entre sistemas heterogéneos gracias a su simplicidad y legibilidad.
+
+05- Su sintaxis es una extensión de la notación de objetos en JavaScript, facilitando su integración en aplicaciones web basadas en este lenguaje.
